@@ -1,0 +1,56 @@
+/* div.chat0dd{
+    border-color: transparent green transparent transparent;
+    border-width: 10px;
+    border-style: solid;
+    width: 0px;
+    height: 0px;
+} */
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 80%;
+}
+.chatwest img{
+    float: left;
+}
+
+.chateast img{
+    float: right;
+}
+
+.textleft, .textright{
+    height: 20px;
+    margin: 20px 110px;
+    padding: 25px 20px;
+    border-radius: 10px;
+}
+
+.textleft{
+    background-color: lightblue;
+    text-align: left;
+}
+
+.textright{
+    background-color: lightpink;
+    text-align: right;
+}
+
+.triangletoleft{
+    border-color: transparent lightblue transparent transparent;
+    border-width: 10px;
+    border-style: solid;
+    width: 0px;
+    height: 0px;
+    float: left;
+    margin-top: 10px;
+}
+
+.triangletoright{
+    border-color: transparent transparent transparent lightpink;
+    border-width: 10px;
+    border-style: solid;
+    width: 0px;
+    height: 0px;
+    float: right;
+    margin-top: 10px;
+}
